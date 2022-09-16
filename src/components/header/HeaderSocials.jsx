@@ -6,10 +6,10 @@ import {FiDribbble} from 'react-icons/fi'
 const HeaderSocials = () => {
   return (
     <div className="header__socials">
-      <a href="https://linkedin.com" target="_blank">
+      <a href="https://linkedin.com">
         <BsLinkedin />
       </a>
-      <a href="https://github.com/lhsang03" target="_blank">
+      <a href="https://github.com/lhsang03">
         <FaGithub />
       </a>
     </div>
